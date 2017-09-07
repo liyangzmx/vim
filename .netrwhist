@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/media/liyang/86b885c2-034f-443d-8283-8898c52b80c9/liyang/desktop/log_process'
+let g:netrw_dirhist_2='/opt/work/delta2-aml/device/amlogic/coco'
+let g:netrw_dirhist_3='/opt/work/delta2-aml/device/amlogic/coco/recovery'
+let g:netrw_dirhist_4='/home/liyang/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/BoostParts/boost'
